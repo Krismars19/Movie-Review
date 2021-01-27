@@ -1,3 +1,3 @@
 ## Text Analytics
 
-- NLP projects
+- NLP project
